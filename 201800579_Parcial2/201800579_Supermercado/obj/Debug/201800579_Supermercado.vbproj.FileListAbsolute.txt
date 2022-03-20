@@ -1,0 +1,13 @@
+C:\Users\ferna\source\repos\201800579_Supermercado\bin\Debug\201800579_Supermercado.exe.config
+C:\Users\ferna\source\repos\201800579_Supermercado\bin\Debug\201800579_Supermercado.exe
+C:\Users\ferna\source\repos\201800579_Supermercado\bin\Debug\201800579_Supermercado.pdb
+C:\Users\ferna\source\repos\201800579_Supermercado\bin\Debug\201800579_Supermercado.xml
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.vbproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\_201800579_Supermercado.Form1.resources
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\_201800579_Supermercado.Resources.resources
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.exe
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.xml
+C:\Users\ferna\source\repos\201800579_Supermercado\obj\Debug\201800579_Supermercado.pdb
